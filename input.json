@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.facebook.com/copperkettleyqr/reviews"
+    }
+  ],
+  "resultsLimit": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

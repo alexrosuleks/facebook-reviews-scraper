@@ -1,0 +1,20 @@
+{
+  "name": "facebook-reviews-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Facebook Reviews Scraper: Scrape public reviews and recommendations from Facebook pages: text, recommend or not, date, reactions and comments. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "facebook"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
